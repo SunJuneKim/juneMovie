@@ -5,7 +5,6 @@ import Home from "./pages/Home";
 import Movies from "./pages/Movies";
 import NotFound from './pages/NotFound';
 import Tv from './pages/Tv';
-import Movie from './components/Movie';
 import MovieDetail from './pages/MovieDetail';
 
 function App() {

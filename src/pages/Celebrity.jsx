@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Celebrity() {
   return (
-    <div className='page-container' style={{fontSize:'32px'}}>Celebrity</div>
+    <div className='page-container' style={{fontSize:'32px'}}>TODO : 인물</div>
   )
 }
 
